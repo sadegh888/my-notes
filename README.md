@@ -5,3 +5,4 @@ update notes content
 add new section
 fix spelling
 organize content
+add more details

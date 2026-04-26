@@ -8,3 +8,4 @@ organize content
 add more details
 clean formating
 update structure
+final notes update

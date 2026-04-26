@@ -4,3 +4,4 @@ add first note
 update notes content
 add new section
 fix spelling
+organize content
